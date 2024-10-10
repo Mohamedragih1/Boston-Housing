@@ -68,5 +68,6 @@ The dataset used in this project is a CSV file containing various features relat
    - Plot the predicted vs. actual prices to visualize the model performance.
 
 ## Plot after 200 epoch:
-![Boston housing plot](https://github.com/user-attachments/assets/a093ba86-0ed4-4ebe-87cb-bead37af2c5d)
+![Boston Housing Plot](https://github.com/user-attachments/assets/28dc2c76-c5bf-4cf1-9769-80a842cd6d5e)
+
 
